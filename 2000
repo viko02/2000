@@ -287,8 +287,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <link>plugin://plugin.video.quasar/play?uri=magnet:?xt=urn:btih:7bfcd3f37a3cc5c1ce687ac20ea89ec96ce9e1b1</link>
 
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bfcd3f37a3cc5c1ce687ac20ea89ec96ce9e1b1</link>
-
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lemqKtcCuAano5aqrzxYiKC8kkn.jpg</thumbnail>
 
 <fanart>https://image.tmdb.org/t/p/original/ykqSwE2vUrcocu4w9e99bxLBrXd.jpg</fanart>
